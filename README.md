@@ -1,6 +1,6 @@
-# justui
+# JustUI
 
-> A Vue.js project
+> Simple UI for CRUD
 
 ## Build Setup
 
